@@ -14,3 +14,5 @@ accommodation of factors such as age, race etc. The expression of the client/cus
 at the counter is captured to predict the level of satisfaction. In this research work, I have used the
 FER2013 dataset available to fine tune three models, namely: mini-Xception, ResNet-50 and
 Inception-v3. ResNet-50 was found to have the best accuracy of 71.2%.
+
+For more details, you can refer to the attached pdf named "Thesis Report".
